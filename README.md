@@ -79,7 +79,15 @@ Step 3: Under Authentication Settings, make sure Registration Required is Unchec
 
 > [!Note]
 > Agents are the actual Help Desk people that go through the tickets and solve the issues.
+> 
 > As Noted by osTicket:
 > "Agents are given access to the help desk with the intent to respond and resolves the tickets. When adding an Agent to the help desk, they will need to be assigned to a Primary Department and given a Primary Role for the Tickets/Tasks routed to that department. Agents can be given Extended Access to additional departments of the help desk as well as assigned different Roles to those departments; this can be configured in the Access tab of the Agent's Profile." 
 
+Step 1: Click Agents 
 
+Step 2: Add New Agent. You'll be creating a few new Agents. In this example, they will be Jane and John. 
+
+Step 3: Add Some credentials for both Agents. 
+
+> [!Tip]
+> When setting the the Agent's Password, be sure to <b>uncheck</b> "Send the agent a password reset email" and "Require password change at next login." It will not be needed at this time. 
