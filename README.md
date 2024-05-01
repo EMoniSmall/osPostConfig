@@ -87,7 +87,17 @@ Step 1: Click Agents
 
 Step 2: Add New Agent. You'll be creating a few new Agents. In this example, they will be Jane and John. 
 
-Step 3: Add Some credentials for both Agents. 
+Step 3: Add Some credentials for both Agents.
 
 > [!Tip]
 > When setting the the Agent's Password, be sure to <b>uncheck</b> "Send the agent a password reset email" and "Require password change at next login." It will not be needed at this time. 
+
+Step 3: Click Set
+
+Step 4: Click Access
+
+Step 5: Make one agent part of the Admins Department you created earlier as well as the team you've created. 
+
+Step 6: Create Account.
+
+
