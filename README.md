@@ -130,6 +130,21 @@ Step 3: Click Add.
 >
 > It is essentially a time limit of how long a ticket can be left open.
 
+> [!Tip]
+> Be sure you're back on the Admin Panel for this. We'll be creating 3 different SLAs:
+> 
+> Sev-A (1 hour, 24/7)
+> 
+> Sev-B (4 hours , 24/7)
+>
+> Sev-C (8 hours, business hours)
+
+
+Step 1: Click Manage > SLA
+
+Step 2: Add New SLA Plan
+
+Step 3: 
 
 
 
