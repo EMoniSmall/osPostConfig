@@ -100,4 +100,13 @@ Step 5: Make one agent part of the Admins Department you created earlier as well
 
 Step 6: Create Account.
 
+> [!Important]
+> We'll be making the 2nd agent a normal agent and not an Admin. Place them in the Support Department/View Only rather than the Admin Department.
+
+
+<h2> Configuring Users</h2>
+
+> [!Note]
+> As Noted by osTicket:
+> "Users are the owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk, Users can be added or deleted from the User directory of the help desk at any time. Please note , if the user is deleted the tickets of the user must also be deleted." 
 
