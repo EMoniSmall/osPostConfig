@@ -144,8 +144,37 @@ Step 1: Click Manage > SLA
 
 Step 2: Add New SLA Plan
 
-Step 3: 
+Step 3: Name the SLA Plan and set the Grace period and Schedule to match the above Tip.
 
+Step 4: Repeat til all 3 SLA Plans are created. 
 
+![mstsc_LRJUqviXdV](https://github.com/EMoniSmall/osPostConfig/assets/166156618/8460267d-783e-44fb-b0d9-7674c04ac59b)
 
+<h2>Configuring Help Topics</h2>
 
+> [!Note]
+> As Noted by osTicket:
+>
+> Help Topics will help streamline your end-user's help desk experience to ensure proper assignment and prompt response to the ticket. Create as many Help Topics as needed and can even nest Help Topics within each other for futher breakdown (For example, Human Resourves and Human Resouces/Payroll.)
+>
+> This basically allows users to add more detail to their tickets to ensure it reaches the correct agents for solving.
+
+> [!Tip]
+> We'll be creating 4 Different Help Topics.
+
+Step 1: Click Manage. You'll notice there are already some default Help Topics.
+
+Step 2: Add New Help Topic. Create a Business Critical Outage topic. Add Topic.
+
+Step 3: Add New Help Topic. Create a Personal Computer Issues topic. Add Topic.
+
+Step 4: Add New Help Topic. Create an Equiment Request topic. Add Topic.
+
+Step 5: Add New Help Topic. Creat a Password Reset topic. Add Topic.
+
+> [!Note]
+> It is possible for users to fill out forms and/or send emails and tickets will automatically be created for them
+
+![mstsc_MFsB03UfRY](https://github.com/EMoniSmall/osPostConfig/assets/166156618/a12cca09-4d84-45b3-8bc1-7accc637d7a4)
+
+<b> This concludes the basic configuration for osTicket! </b>
