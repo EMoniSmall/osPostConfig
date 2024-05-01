@@ -110,3 +110,27 @@ Step 6: Create Account.
 > As Noted by osTicket:
 > "Users are the owners of the tickets in the help desk. When a ticket is created in the help desk, the user is associated with their email address in the User Directory of the help desk, Users can be added or deleted from the User directory of the help desk at any time. Please note , if the user is deleted the tickets of the user must also be deleted." 
 
+> [!Tip]
+> Be sure that you're in the Agent Panel this time. We'll be creating two users, Karen Karen and Ken Ken.
+
+Step 1: Click Users
+
+Step 2: Add User and enter their email and Full name. 
+
+Step 3: Click Add.
+
+![mstsc_viJNvpXlz3](https://github.com/EMoniSmall/osPostConfig/assets/166156618/22bffd4e-607b-47c4-9c7a-939f01cd8f09)
+
+<h2>Configuring SLAs </h2>
+
+> [!Note]
+> As noted by osSticket:
+>
+> "SLA Plans or Service Level Adreements, are unlimited in osTicket. The purpose of the SLA Plan is to provide a length of time in which the help desk Administrator expects tickets to be closed."
+>
+> It is essentially a time limit of how long a ticket can be left open.
+
+
+
+
+
